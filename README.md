@@ -1,6 +1,6 @@
 ## Информация обо мне:
 
-! [Konstantin] (/infoaboutme/konstantin S.jpg)
+! [] (https://github.com/SergeevKostia/-/blob/main/konstantin%20S.jpg)
 
 
 1. Я люблю театр
