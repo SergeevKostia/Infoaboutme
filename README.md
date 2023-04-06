@@ -1,6 +1,7 @@
 ## Информация обо мне:
 
-konstantin S.jpg
+! [Konstantin] (/infoaboutme/konstantin S.jpg)
+
 
 1. Я люблю театр
 2. Обожаю гулять на природе
